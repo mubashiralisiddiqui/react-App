@@ -1,6 +1,16 @@
 
-
+th{
+    background-color:gray;
+}
 th:hover{background-color: lightseagreen;
          cursor: pointer;
          
+         
+
+
+}
+td,tr{border:2px solid red}
+
+.thead{
+    border:2px solid gray;
 }
